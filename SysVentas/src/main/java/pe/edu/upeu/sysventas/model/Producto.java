@@ -41,5 +41,5 @@ public class Producto {
     //@NotNull(message = "La marca del producto es obligatoria")
     private Marca idMarca;
     //@NotNull(message = "La unidad de medida del producto es obligatoria")
-    private UnidMedida idUnidad;
+    private UnidadMedida idUnidad;
 }

@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class UnidMedida {
+public class UnidadMedida {
 
     private Long idUnidad;
     private String nombreMedida;
